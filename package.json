@@ -1,0 +1,15 @@
+{
+  "name": "vue-mini",
+  "version": "1.0.0",
+  "description": "因为面试的时候面试官老是不给我聊vue2 vue3源码，所以写个vue3-mini出来放在简历上,不信面试官还不给我聊源码，我太难了",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clf",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
